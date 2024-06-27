@@ -1,0 +1,158 @@
+02/10/2023 to 03/10/2023:
+-Researched different board games and how each board game operates.
+-Played chess online with AI and with online players on all difficulties (easy, standard, and hard) to gain a better understanding of chess rules.
+
+04/10/2023 to 07/10/2023:
+-Set up my coding environment which is Eclipse(IDE).
+-Watched last year's online lecture on Gitlab and YouTube to learn how to use Git commands to properly store our code.
+
+08/10/2023 to 11/10/2023:
+-Improved my understanding further of JavaFX which was used on last year's project as well.
+-Watched videos on YouTube covering Eclipse shortcuts to improve my coding performance.
+-I watched videos on Maven and learned why it's so useful for my project.
+
+12/10/2023:
+-Rest from working to avoid overworking.
+
+13/10/2023:
+-Researched further into Apache Maven and its advantages in application development.
+
+14/10/2023:
+-Installed essential plugins for my Java Project on Eclipse in the Eclipse marketplace. Installed the Checkstyle plugin and FindBugs plugin.
+
+15/10/2023 to 16/10/2023:
+-Found existing solutions to developing chess board games and naughts and crosses and planned out how I could improve them and use them for my project.
+
+16/10/2023 to 25/10/2023:
+-Researched WindowsBuilder and Swing design as alternatives to JavaFX.
+-Installed WindowsBuilder to use Swing design for my project.
+I started creating a GUI for my TicTacToe game.
+
+25/10/2023 to 07/11/2023:
+-I finished the GUI for my TicTacToe game.
+-Started coding the game logic for my game using the TDD approach making commits almost every day.
+-Started updating my interim report.
+
+07/11/2023 to 16//11/2023:
+-Competition of tic-tac-toe board game.
+-Completion of all possible tests for tic-tac-toe.
+-Removed code smells from files.
+-Added Java documentation and comments.
+-Started playing chess to learn its game logic.
+-Cleaned up the repository by removing unwanted files.
+
+16//11/2023 to 27/11/2023:
+-Learned about threads/multi-threads.
+-Started implementing Chess game.
+-Re-factored my tic-tac-toe game before implementing threads.
+-Updated my interim report.
+
+27/11/2023 to 01/12/2023:
+-I did some minor refactoring.
+-Updated interim report.
+-Implemented thread to my tic-tac-toe game.
+-Tested thread implementation.
+-Added Java doc and comments.
+
+01/12/2023 to 06/12/2023:
+-Fixed broken test cases.
+-Updated readme.md file which includes how the app works.
+-Fixed exit button problem.
+-Updated interim report.
+
+15/01/2024 - 24/01/2024:
+-Re-visited chess board game and researched further into the game rules, design, movements for each piece, and checkmate aspect of chess game.
+-Finished designing the chessboard and its pieces.
+-Cleaned up the repository by removing unwanted files.
+-Further research going on to start implementing pieces so it can move around the board.
+
+24/01/2024 - 01/02/24:
+-Started final year report
+-Researched interfaces that will be required for chess pieces to move
+-Implemented interfaces for pieces to move when the user uses the mouse.
+- Finished basic chess piece movement without rules
+- Started Unit testing on the movement of each piece according to capture/movement rules to develop each piece.
+
+01/02/24 - 09/02/24:
+-Resoved image rendering issue.
+-Updated final year report.
+-Implemented movement functionality on different pieces and added new capturing methods for each piece.
+
+09/02/24 - 20/02/24:
+-Updated final year report.
+-Finished movement and capture functionality for each piece.
+-Finished testing for white chess pieces.
+
+20/02/24 - 27/02/24:
+-Updated final year report.
+-Implemented turn-switching logic for my chess game.
+-Finished black piece testing.
+
+27/02/24 - 03/03/2024:
+-Updated final year report.
+-Started researching checkmate detection systems using online resources.
+
+04/03/24 - 11/03/2024:
+-Reviewed work with supervisor so far and tackled any issues/questions I had during online meeting.
+-Researched special chess moves promotion, castling, and en passant.
+-Finished research on promotion and implemented it in my game.
+-Improved GUI and user feedback feature.
+-Removed code smells and added useful comments and Java docs to all code files.
+
+12/03/24 - 13/03/2024:
+-Reviewed Oracle documentation to learn how to get an image icon inside the options dialog.
+-Added images to replace previous text-based promotion dialog options.
+
+13/03/24 - 15/03/2024:
+-Added game title inside chess panel and modified player turn switch messages for improved user game experience.
+-Further researched deep into En Passant deployment into my game.
+-Began En Passant implementation for my chess game.
+
+16/03/24 - 19/03/2024:
+-Finished En Passant feature and began casting feature.
+-Implemented castling feature.
+-Changed chessboard color for better aesthetics.
+
+21/03/24 - 22/03/2024:
+-Removed static variables and changed them to instance variables to match concurrency needs.
+-Temporarily removed castling-related code.
+-Added a new button for launching chess games inside MainInterface class.
+-Fixed minor game bugs which were causing issues when running and closing windows.
+-Updated all testing files to match new changes.
+-Added casting logic to the game.
+-Updated report.
+
+25/03/24 - 26/03/2024:
+-Implemented illegal move check for King piece using TDD.
+-Updated GUI to let users see when King is in danger.
+-Improved main interface by adding images in place of text for better aesthetics.
+-Added instructional pop-ups for both games to allow users to understand how to play.
+-Added instructional buttons within the panel to allow users to open them anytime they want to check the rules.
+-Carried further GUI enhancements.
+-Updated report.
+
+
+26/03/2024 - 29/03/2024
+-Added new buttons to reset the game, and create a new game.
+-Implemented check logic & Illegal moves.
+-Added timers for white and black users.
+-Refactored ChessPanel class.
+
+29/03/2024 - 02/04/2024
+-Researched checkmate, stalemate, and other draw-based conditions.
+-Implemented checkmate detection mechanism.
+-Started stalemate detection.
+-Updated report.
+
+
+02/04/2024 - 04/04/2024
+-Implemented stalemate logic.
+-Fixed issue with timers.
+-Updated report.
+
+04/04/2024 - 05/04/2024
+-Added Javadoc comments and inline comments to all test files.
+-Finished report.
+-Cleaned repository.
+-Minor codebase cleaning by getting rid of unused imports.
+-Updated README.md file.
